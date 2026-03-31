@@ -27,7 +27,7 @@
 
 ## 🐍 Snake
 
-![snake](https://raw.githubusercontent.com/jisoo009/jisoo009/output/github-contribution-grid-snake.svg)
+![snake](github-contribution-grid-snake.svg)
 
 ---
 
