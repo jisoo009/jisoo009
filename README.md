@@ -2,11 +2,16 @@
 
 #  Jisoo's Dev Space 
 
-<!-- 웰컴 배너 및 귀여운 픽셀 고양이 애니메이션 -->
+<div align="center">
+
+# 🌷 Jisoo's Dev Space 🌷
+
+<!-- 웰컴 배너 -->
 <img src="https://capsule-render.herokuapp.com/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=twinkling" />
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9zeHd5d29keGlkNG94amF1d2lhNzFvZXh5cHh5cHh5cHh5cHh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oriO0OEd9hmvleRJC/giphy.gif" width="130"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmszbW14MzBqZXh5cHh5cHh5cHh5cHh5cHh5cHh5cHh5cHh5cHh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/meJnB4E6IfK6I/giphy.gif" width="105"/>
+<!-- GitHub에서 100% 로드되는 귀여운 픽셀 고양이 애니메이션 -->
+<img src="https://raw.githubusercontent.com/rishiangill/rishiangill/main/assets/cat-typing.gif" width="160"/>
+<img src="https://raw.githubusercontent.com/Sujal-7/Sujal-7/master/assets/cat.gif" width="130"/>
 
 </div>
 
