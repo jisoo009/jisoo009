@@ -2,12 +2,11 @@
 
 #  Jisoo's Dev Space 
 
-<!-- 웰컴 배너 -->
 <img src="https://capsule-render.herokuapp.com/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=twinkling" />
-  
-<!-- GitHub에서 100% 로드되는 귀여운 픽셀 고양이 애니메이션 -->
-<img src="https://raw.githubusercontent.com/rishiangill/rishiangill/main/assets/cat-typing.gif" width="160"/>
-<img src="https://raw.githubusercontent.com/Sujal-7/Sujal-7/master/assets/cat.gif" width="130"/>
+
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="120"/>
+<img src="https://assets.ubuntu.com/v1/fa612711-ubuntu-orange-hex.svg" width="0"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BzeHd5d29keGlkNG94amF1d2lhNzFvZXh5cHh5cHh5cHh5cHh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8m4R4pv50LI_G/giphy.gif" width="140"/>
 
 </div>
 
