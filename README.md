@@ -2,10 +2,6 @@
 
 #  Jisoo's Dev Space 
 
-<div align="center">
-
-# 🌷 Jisoo's Dev Space 🌷
-
 <!-- 웰컴 배너 -->
 <img src="https://capsule-render.herokuapp.com/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=twinkling" />
   
