@@ -4,15 +4,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-* 🌐 **HTML**
-* ☕ **Java**
-* 🐍 **Python**
-* 🗄 **Database**
-
----
-
 ## 🐍 Snake Game (My Contributions)
 
 <div align="center">
